@@ -1,0 +1,16 @@
+{
+  "name": "Lab01_ 101282062_COMP3133",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["node", "csv-parser", "createWriteStream", "createReadStream", "fs"],
+  "author": "Mondi Koci",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
